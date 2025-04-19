@@ -1,1 +1,1 @@
-# Dice-Game
+A Simple basic dice game.
